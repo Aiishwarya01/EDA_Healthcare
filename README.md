@@ -1,4 +1,4 @@
-# 📊 Medical Appointments Analysis
+## 📊 Medical Appointments Analysis
 
 This project explores a medical appointments dataset to analyze **factors influencing whether a patient shows up** for their appointment. The goal is to derive actionable insights that can help healthcare providers improve patient turnout and operational efficiency.
 
@@ -69,6 +69,18 @@ This project explores a medical appointments dataset to analyze **factors influe
 - **Age, medical conditions, and SMS reminders** play varying roles in patient attendance.
 - **SMS reminders may need improvement** or personalization, as they did not correlate with higher show-up rates.
 - The data can help hospitals **identify high-risk no-show profiles** for better appointment planning and resource allocation.
+
+---
+
+## 📬 Contact
+
+**Aishwarya SR**  
+
+📧 aishwaryasr097@gmail.com 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-sr/)  
+
+💻 [GitHub](https://github.com/Aiishwarya01)
 
 
 
