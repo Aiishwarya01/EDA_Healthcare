@@ -4,13 +4,6 @@ This project explores a medical appointments dataset to analyze **factors influe
 
 ---
 
-## 📁 Dataset
-
-- The dataset contains records of **over 110,000 medical appointments** in Brazil.
-- Each record includes patient details such as age, gender, SMS reminders, medical conditions, appointment day, and whether the patient showed up.
-
----
-
 ## 🎯 Objective
 
 - Understand the key factors that influence patient **no-shows**.
@@ -26,6 +19,13 @@ This project explores a medical appointments dataset to analyze **factors influe
 - **Matplotlib**,
 - **Seaborn**
 - **Jupyter Notebook**
+
+---
+
+## 📁 Dataset Informnation
+
+- The dataset contains records of **over 110,000 medical appointments** in Brazil.
+- Each record includes patient details such as age, gender, SMS reminders, medical conditions, appointment day, and whether the patient showed up.
 
 ---
 
@@ -66,13 +66,11 @@ This project explores a medical appointments dataset to analyze **factors influe
 
 ## 🧾 Project Structure
 
-google-playstore-eda/
+EDA_Healthcare/
 
- ┣ 📄 Google_PlayStore_EDA.ipynb
+ ┣ 📄 Medical_Appoinmnets_EDA.ipynb
  
- ┣ 📄 google_playstore_dataset_raw.csv 
-
- ┣ 📄 google_play_store_data_cleaned.csv 
+ ┣ 📄 Data.csv 
  
  ┗ 📝 README.md
 
