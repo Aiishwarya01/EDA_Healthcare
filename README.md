@@ -64,6 +64,20 @@ This project explores a medical appointments dataset to analyze **factors influe
 
 ---
 
+## 🧾 Project Structure
+
+google-playstore-eda/
+
+ ┣ 📄 Google_PlayStore_EDA.ipynb
+ 
+ ┣ 📄 google_playstore_dataset_raw.csv 
+
+ ┣ 📄 google_play_store_data_cleaned.csv 
+ 
+ ┗ 📝 README.md
+
+---
+
 ## 🧠 Findings Summary
 
 - **Age, medical conditions, and SMS reminders** play varying roles in patient attendance.
